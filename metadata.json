@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "notes": "## What's New in Version 2.0.0\n\n### New Features\n- Zoom In/Out controls with persistence across app launches\n- Automatic update checks on startup and periodic background checks\n- 'Check for Updates' option added to Help menu for manual update checks\n\n### Improvements\n- Better window management\n- Improved system tray integration\n\n### Bug Fixes\n- Resolved window focus issues on Windows\n- Fixed zoom persistence across sessions",
+  "pub_date": "2025-01-23T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYUUxaDU2OWloTXFsaTJXZVYxZTVJOVdDUXVUMmFhTVV1MHNYeHZwOUNBamZDZFBZOEpZaHdkTTdWT3ZqbHdXZnJURlRvS0FFbHlUeTJ5VzB5eVdSNFZsRlY0dC9td3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjI1NzM0CWZpbGU6RWx0cm9weSBEZXNrdG9wIEFwcGxpY2F0aW9uXzIuMC4wX3g2NF9lbi1VUy5tc2kuemlwClhTclJmUGJuVE5HTUFLWVhJMnIvREFxOHpkazdXU3JicUFnZjVsbW1yKzBKRkpnWkRTOHBOOHRGV3g0ck5aL05MSlJFWUZjS2JWTE40WFR4VUVpK0F3PT0K",
+      "url": "https://github.com/mohitdhule/eltropy-desktop-app/releases/download/2.0.0/Eltropy.Desktop.Application_2.0.0_x64_en-US.msi.zip"
+    }
+  }
+}
