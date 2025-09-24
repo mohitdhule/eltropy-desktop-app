@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "notes": "## What's New in Version 2.0.0\n\n### New Features\n- Zoom In/Out controls with persistence across app launches\n- Automatic update checks on startup and periodic background checks\n- 'Check for Updates' option added to Help menu for manual update checks\n\n### Improvements\n- Better window management\n- Improved system tray integration\n\n### Bug Fixes\n- Resolved window focus issues on Windows\n- Fixed zoom persistence across sessions",
+  "notes": "## What's New in Version 2.1.0\n\n### New Features\n- Zoom In/Out controls with persistence across app launches\n- Automatic update checks on startup and periodic background checks\n- 'Check for Updates' option added to Help menu for manual update checks\n\n### Improvements\n- Better window management\n- Improved system tray integration\n\n### Bug Fixes\n- Resolved window focus issues on Windows\n- Fixed zoom persistence across sessions",
   "pub_date": "2025-09-24T19:13:00+05:30",
   "platforms": {
     "windows-x86_64": {
